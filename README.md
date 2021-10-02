@@ -14,6 +14,9 @@ Working as a developer at [Coderockr](https://github.com/Coderockr)
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Aplicando HTTPS para uma SPA na AWS](http://www.lucassabreu.net.br/post/aplicando-https-para-uma-spa-na-aws/)
+- [Ambientes por Branch com OpenShift Next Gen usando GitHub](http://www.lucassabreu.net.br/post/ambientes-por-branch-com-openshift-next-gen-usando-github/)
+- [Ambientes por Branch com OpenShift Next Gen](http://www.lucassabreu.net.br/post/ambientes-por-branch-com-openshift-next-gen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
