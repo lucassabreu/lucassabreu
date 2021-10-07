@@ -1,6 +1,9 @@
 name: Blog in Readme
 
 on:
+  repository_dispatch:
+    types:
+      - cron-readme
   workflow_dispatch:
   schedule:
     # Once every Sunday
