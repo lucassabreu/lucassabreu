@@ -5,6 +5,11 @@ on:
     types:
       - cron-readme
   workflow_dispatch:
+    inputs:
+      postsCount:
+        description: number of posts to show
+        required: false
+        default: 3
   schedule:
     # Once every Sunday
     - cron: 0 0 * * 0
@@ -17,4 +22,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: https://www.lucassabreu.net.br/index.xml
-          max_post_count: 3
+          max_post_count: ${{ github.event.inputs.postsCount || 3 }}
