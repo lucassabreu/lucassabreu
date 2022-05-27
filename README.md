@@ -33,3 +33,5 @@ fugitive   ▓░░░░░░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
+
+![](./profile-3d-contrib/profile-green-animate.svg)
