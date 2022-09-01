@@ -7,6 +7,9 @@
 
 ---
 
+Bachelor's Degree in Information Systems at [UNIVILLE](https://www.univille.edu.br//en/index/593619) (2016).
+I have a passion for web development
+
 Working as a developer at [Coderockr](https://github.com/Coderockr)
 
 ---
@@ -35,3 +38,5 @@ Bash           █▓░░░░░░░░░░░░░░░░░░░�
 ---
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!-- vim: spelllang=en
